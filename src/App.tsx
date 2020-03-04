@@ -1,10 +1,14 @@
 import React from 'react';
-// import Login from './Login'
+
+import { GlobalStyle } from './utils'
+
+import { Landing } from './component'
 
 function App() {
   return (
     <div className="App">
-
+      <GlobalStyle />
+      <Landing />
     </div>
   );
 }
