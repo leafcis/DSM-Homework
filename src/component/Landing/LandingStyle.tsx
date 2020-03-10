@@ -21,9 +21,10 @@ export const LandingBackground = styled.div`
   background-image: url(${Landing});
   background-size: cover;
   background-attachment: fixed;
-  filter: blur(20px);
+  filter: blur(5px);
   position: absolute;
-  transform: scale(1.2);
+  transform: scale(1.1);
+  z-index: -1;
 `
 
 export const LandingDescription = styled.div`
