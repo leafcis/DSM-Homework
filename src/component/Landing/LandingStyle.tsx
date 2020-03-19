@@ -51,7 +51,7 @@ export const Button = styled.button`
   font-size: 27.5px;
   font-weight: 1000;
   background: #0059b3;
-  color: #ffffff;
+  color: #a09890;
   font-family: 'SeoulHangang', sans-serif;
 
   &:focus {
