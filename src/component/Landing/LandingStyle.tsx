@@ -50,8 +50,8 @@ export const Button = styled.button`
   width: 230px;
   font-size: 27.5px;
   font-weight: 1000;
-  background: #0059b3;
-  color: #a09890;
+  background: #a09890;
+  color: #ffffff;
   font-family: 'SeoulHangang', sans-serif;
 
   &:focus {
