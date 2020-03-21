@@ -53,6 +53,7 @@ export const Button = styled.button`
   background: #a09890;
   color: #ffffff;
   font-family: 'SeoulHangang', sans-serif;
+  border-radius: 13px;
 
   &:focus {
     outline: none;
