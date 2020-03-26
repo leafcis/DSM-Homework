@@ -1,4 +1,4 @@
-type ModalState = <T>(state: T) => {}
+
 
 export const modalStates:ModalState = <modalStateProps>(state: modalStateProps) => (
   {
